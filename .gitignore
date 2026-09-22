@@ -2,8 +2,11 @@
 .venv/
 
 #cache bytecode python
-_pycache_/
+__pycache__/
 *.pyc
 
 #checkpoint otomatis jupyter
 .ipynb_checkpoints/
+
+#file data csv (tetap ada di lokal, tidak di-push)
+*.csv
