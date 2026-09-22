@@ -10,3 +10,6 @@ __pycache__/
 
 #file data csv (tetap ada di lokal, tidak di-push)
 *.csv
+
+#file excel
+*.xlsx
