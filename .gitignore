@@ -1,0 +1,9 @@
+# virtual environment
+.venv/
+
+#cache bytecode python
+_pycache_/
+*.pyc
+
+#checkpoint otomatis jupyter
+.ipynb_checkpoints/
